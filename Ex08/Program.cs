@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿//* Crie um program que conte de 1 a 10 e imorime cada número.
+
+int contador = 1;
+
+while (contador <= 10)
+{ 
+ Console.WriteLine(contador);
+    contador++;
+}
