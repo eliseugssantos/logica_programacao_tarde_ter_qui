@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eliseu.gssantos\\source\\repos\\logica_programacao_tarde_ter_qui\\Ex10\\Ex10.csproj": {}
+    "C:\\Users\\eliseu.gssantos\\Source\\Repos\\logica_programacao_tarde_ter_qui\\Ex10\\Ex10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eliseu.gssantos\\source\\repos\\logica_programacao_tarde_ter_qui\\Ex10\\Ex10.csproj": {
+    "C:\\Users\\eliseu.gssantos\\Source\\Repos\\logica_programacao_tarde_ter_qui\\Ex10\\Ex10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eliseu.gssantos\\source\\repos\\logica_programacao_tarde_ter_qui\\Ex10\\Ex10.csproj",
+        "projectUniqueName": "C:\\Users\\eliseu.gssantos\\Source\\Repos\\logica_programacao_tarde_ter_qui\\Ex10\\Ex10.csproj",
         "projectName": "Ex10",
-        "projectPath": "C:\\Users\\eliseu.gssantos\\source\\repos\\logica_programacao_tarde_ter_qui\\Ex10\\Ex10.csproj",
+        "projectPath": "C:\\Users\\eliseu.gssantos\\Source\\Repos\\logica_programacao_tarde_ter_qui\\Ex10\\Ex10.csproj",
         "packagesPath": "C:\\Users\\eliseu.gssantos\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\eliseu.gssantos\\source\\repos\\logica_programacao_tarde_ter_qui\\Ex10\\obj\\",
         "projectStyle": "PackageReference",

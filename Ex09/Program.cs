@@ -8,6 +8,6 @@ int contador = 1;
 do
 {
     Console.WriteLine($"{numero} x {contador} = {numero * contador}");
-    contador++;
+    contador +=2;
 } 
 while (contador <= 10);
